@@ -1,0 +1,29 @@
+# variable below are required to generate the _includes/host.html
+host_intro: "CGVC 2024 will be hosted by <br> <b>Aberystwyth University, Wales, UK</b>."
+logo: "logo.png"
+
+# variable below are required to generate the _includes/important_dates.html
+submission_started: true
+submission_closed: true
+submission_link: "https://srmv2.eg.org/COMFy/Conference/CGVC_2024"
+proceedings: "https://diglib.eg.org/handle/10.2312/3543876"
+
+committee:
+  conference_chair:
+    - name: Mai Elshehaly
+      role: Conference Chair
+      affiliation: Aberystwyth University
+      url: https://www.aber.ac.uk/en/cs/staff-profiles/listing/profile/hem23/
+      email: hem23@aber.ac.uk
+  programme_chair:
+    - name: David Hunter
+      affiliation: Aberystwyth University
+      role: Programme Chair
+      url: https://www.aber.ac.uk/en/cs/staff-profiles/listing/profile/dah56/
+      email: dah56@aber.ac.uk
+
+    - name: Peter Vangorp
+      affiliation: Utrecht University
+      role: Programme Chair
+      url: http://www.pvangorp.be/
+      email: peter.vangorp@gmail.com
